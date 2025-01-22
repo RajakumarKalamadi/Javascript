@@ -41,9 +41,9 @@
 // console.log(fun(10));
 
 
-const myFun = function(x){
-    console.log("Function expression :", x);
+// const myFun = function(x){
+//     console.log("Function expression :", x);
     
-}
+// }
 
-myFun(10);
+// myFun(10);
